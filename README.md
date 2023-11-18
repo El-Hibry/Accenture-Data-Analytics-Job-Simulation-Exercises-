@@ -1,5 +1,5 @@
 # Accenture-Data-Analytics-Job-Simulation-Exercises-
-# project Description
+# Project Files Description
 This is a Job Simulation Exercises From Accenture That I paticipated in, which was completed November 17th, 2023. The Project Processes are as follows;
  * Raw Files 
  * Data Cleaning 
