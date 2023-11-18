@@ -21,9 +21,9 @@ The Following are the Files for each step
   # Data Modelling and Data Analysis
    * Final Analysis file.ipynb
    * Top_5_Categories.csv
-   # Insights
-    * Bar plot of Top 5 categories.png
-    * Percentage of popularity pie chart.png
-    * Accenture Task_3 Submission.pptx
+  # Insights
+   * Bar plot of Top 5 categories.png
+   * Percentage of popularity pie chart.png
+   * Accenture Task_3 Submission.pptx
   
   
